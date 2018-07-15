@@ -7,19 +7,81 @@ float:left;
 margin-left: 50px;
 display:inline
 }
-dt{
+.dtcss{
 margin-left: 20px;
 margin-right:30px;
 float:left;
 font-size:30px;
 }
 #maindiv{
+    width:100%;
+    height:120px;
    margin-top: 20px;
    font-family: Cursive ;
+    color: #504280;
 }
 body{
 width:100%;
 height:950px;
 
- background: url("./image/ground.jpg") no-repeat;
+ background: url("./image/background1.jpg") no-repeat;
+}
+
+#imageLogo{
+     margin-left:500px ;
+    margin-top: 30px;
+}
+#txt{
+    margin-top: 30px;
+    font-family: Cursive ;
+    margin-left: 40%;
+    font-size:40px;
+    color: #504280;
+
+}
+#skill{
+    margin-left: -20%;
+    font-size:30px;
+}
+.textCss{
+    background-color: #36805d;
+    margin-right: 20px;
+    padding-left: 30px;
+
+}
+#maindetail{
+    margin-top: 20px;
+    margin-left: 20%;
+    border:1px solid gray;
+    width: 800px;
+    height: 300px;
+    border-radius: 20px;
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    color: #328dfa;
+    -webkit-box-shadow: 2px 2px 10px #909090;
+
+}
+
+#linkcss{
+    width: auto;
+    height: 100px;
+}
+.detail{
+    width: 50%;
+    float: left;
+}
+
+dd{
+    font-size: 30px;
+}
+.detailtd{
+    font-size: 15px;
+    margin-right: 20px;
+
+}
+
+table{
+    border-spacing:0px 20px;
+    border-collapse:separate;
 }
