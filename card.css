@@ -1,0 +1,32 @@
+.float{
+ float:left;
+ width:300px;
+ height:300px;
+
+}
+
+#name{
+text-align:center;
+padding:100px 0px 0px 80px;
+font-size:30px;
+
+}
+#all{
+margin: 300px   500px  0px 600px;
+ font-family: Cursive ;
+  border: 2px solid green;
+  height:350px;
+}
+#detail{
+padding:130px 0px 0px 70px;
+font-size:20px;
+}
+
+#line{
+float:left;
+height:100px;
+width:1px;
+margin:150px 0px 0px 0px ;
+padding: 100px 0px 0px 0px;
+border: 1px solid green;
+}

@@ -1,0 +1,41 @@
+td
+{
+text-align:right;
+padding-top:5px;
+	padding-bottom:4px;
+border:1px solid green;
+text-align:left;
+width:40px;
+
+}
+tr{
+padding-top:5px;
+	padding-bottom:4px;
+border:1px solid green;
+text-align:left;
+}
+th{
+padding-top:5px;
+	padding-bottom:4px;
+border:1px solid green;
+text-align:left;
+width:40px;
+background: gray;
+color : blue;
+}
+table{
+   font-size: 20px;
+   border:1px solid green;
+   margin: 300px   500px  0px 700px;
+   width: 500px;
+   height:400px;
+
+}
+
+.colorChange{
+background: green;
+}
+tr:hover
+{
+background-color:#00FF00
+}
